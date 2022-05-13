@@ -22,9 +22,10 @@ public class UserDaoService {
         return users;
     }
     public User save(User user){
-//        if(user.getId()==null){
-//            user.setId(++userCount);
-//        }
+        if(user.getId()==0){
+            user.setId(++userCount);
+            return user;
+        }
         users.add(user);
         userCount++;
         return user;
