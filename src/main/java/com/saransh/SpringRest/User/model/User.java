@@ -1,7 +1,9 @@
 package com.saransh.SpringRest.User.model;
 
 
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 public class User {
     private int id;
@@ -49,4 +51,6 @@ public class User {
     public void setBirthDate(Date birthDate) {
         this.birthDate = birthDate;
     }
+
+
 }
