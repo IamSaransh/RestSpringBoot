@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f877c26f-fd3b-446c-a2a1-d19f2152238b" name="Default Changelist" comment="User Model, controller and service added">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/exception/CustomizedResponseEntityExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/exception/ExceptionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/model/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringRest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringRest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/controller/UserResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/controller/UserResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/dao/UserDaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/dao/UserDaoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saransh/SpringRest/User/model/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652471471174</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="User Model, controller and service added">
+      <created>1652935615855</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652935615855</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
