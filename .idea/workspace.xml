@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0d5d9b0-2994-48e4-8f00-d258aed8e5e2" name="Default Changelist" comment="Final Commit: Converted to JPA repo">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="a0d5d9b0-2994-48e4-8f00-d258aed8e5e2" name="Default Changelist" comment="Added readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ApacheBeam/BeamJava" />
   </component>
   <component name="RunManager">
     <configuration name="SpringRestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657209794134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added readme.md">
+      <created>1657210304681</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657210304681</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hateos added" />
     <MESSAGE value="Final Commit: Converted to JPA repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final Commit: Converted to JPA repo" />
+    <MESSAGE value="Added readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme.md" />
   </component>
 </project>
