@@ -1,13 +1,22 @@
 package com.saransh.SpringRest.User.model;
 
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
+import java.util.Random;
 
+import static java.lang.Math.random;
+
+@Entity
 public class User {
+    @Id
+    @GeneratedValue
     private int id;
     @Size(min=2)
     private String name;
